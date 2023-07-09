@@ -12,7 +12,7 @@
         "url": "https://github.com/KicRin/framework-wizio-pico.git"
     },
     "frameworks": {
-        "framework-wizio-pico": {}
+        "baremetal": {}
     },
     "packages": {
         "framework-wizio-pico": {
