@@ -3,7 +3,7 @@
     "version": "1.1.1",
     "description": "KicRin's WIZIO framework for Raspberry Pi Pico",
     "url": "https://github.com/KicRin/framework-wizio-pico",
-    "vendor": "Your Name",
+    "vendor": "KicRin",
     "engines": {
         "platformio": "^5.0.0"
     },
@@ -12,7 +12,7 @@
         "url": "https://github.com/KicRin/framework-wizio-pico.git"
     },
     "frameworks": {
-        "wizio": {}
+        "framework-wizio-pico": {}
     },
     "packages": {
         "framework-wizio-pico": {
